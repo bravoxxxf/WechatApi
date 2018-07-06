@@ -2,11 +2,11 @@
 
 ## Restify & Mysql & Nodejs 微信后台脚手架
 
-## · 使用Nodejs最流行的restful api框架
-## · 使用最流行的Mysql数据库
-## · 热更新（src/api）
-## · 支持小程序授权（xcx_autho.js）
-## · 更多功能待更新...
+### · 使用Nodejs最流行的restful api框架
+### · 使用最流行的Mysql数据库
+### · 热更新（src/api）
+### · 支持小程序授权（xcx_autho.js）
+### · 更多功能待更新...
 
 # 使用方法
 
